@@ -60,10 +60,11 @@ To run this project;
 
 ```
 # Clone the repository
-$ git clone https://github.com/esadakman/reactjs-ai-summarizer
+<!-- $ git clone https://github.com/esadakman/reactjs-ai-summarizer -->
+$ git clone https://github.com/NiteshS1/Article-Summarizer.git
 
 # Navigate to the project directory
-$ cd ./reactjs-ai-summarizer
+$ cd ./Article-Summarizer
 
 # Create a new .env file in the root of the project
 $ touch .env
@@ -75,7 +76,7 @@ VITE_RAPID_API_ARTICLE_KEY=your_rapid_api_key
 # Save and close the .env file
 
 # Install dependencies using Vite
-$ npm install vite / yarn install vite
+$ npm install / yarn install
 
 # Start the project with Vite
 $ npm run dev / yarn dev
