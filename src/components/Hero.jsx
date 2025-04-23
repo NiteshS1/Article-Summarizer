@@ -10,7 +10,7 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/esadakman/reactjs-ai-summarizer",
+              "https://github.com/NiteshS1/Article-Summarizer",
               "_blank"
             )
           }
