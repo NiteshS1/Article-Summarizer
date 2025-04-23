@@ -35,4 +35,6 @@ const App = () => {
   );
 };
 
+// $ git clone https://github.com/esadakman/reactjs-ai-summarizer
+
 export default App;

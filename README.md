@@ -60,7 +60,6 @@ To run this project;
 
 ```
 # Clone the repository
-<!-- $ git clone https://github.com/esadakman/reactjs-ai-summarizer -->
 $ git clone https://github.com/NiteshS1/Article-Summarizer.git
 
 # Navigate to the project directory
